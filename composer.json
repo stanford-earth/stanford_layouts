@@ -4,7 +4,9 @@
   "type": "stanford-module",
   "homepage": "https://github.com/stanford-earth/stanford_layouts",
   "authors": [],
-  "license": "GPL-2.0+",
+  "license": "GPL-3.0+",
   "minimum-stability": "dev",
-  "require": {}
+  "require": {
+      "composer/installers": "~1.0"
+  }
 }
