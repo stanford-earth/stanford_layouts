@@ -1,5 +1,5 @@
 # [Stanford Layouts](https://github.com/stanford-earth/stanford_layouts)
-##### Version: 8.x-1.0-dev
+##### Version: 8.x-1.1
 
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)  
 
